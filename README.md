@@ -4,6 +4,15 @@
 
 *Knowledge has no limits.*
 
+## Agent skills and plugins
+
+<table>
+<tr>
+<td width="50%" valign="top"><b><a href="https://github.com/martindavinci/mdv-second-brain">mdv-second-brain</a></b><br>A plugin that keeps an Obsidian-compatible second brain for each workspace while you work: a Kanban board, living task and issue notes, daily checkpoints, distilled project knowledge and ideas. Claude keeps it current without being asked, workspaces never mix, and it does nothing until you run <code>/brain init</code>.</td>
+<td width="50%" valign="top"><b><a href="https://github.com/martindavinci/mdv-linux-kernel">mdv-linux-kernel</a></b><br>An Agent Skill that mentors people sending their first Linux kernel patches, with netdev in depth. It does not hide AI use: it asks for evidence tied to the exact code and follows each tree's own rules. Before anything goes out, it checks the patch for the signs of AI slop that maintainers look for (a vague changelog, a wrong <code>Fixes:</code> tag, needless churn), then asks you questions about it, so you only send what you understand. You sign off and send it yourself.</td>
+</tr>
+</table>
+
 ## Tools
 
 <table>
