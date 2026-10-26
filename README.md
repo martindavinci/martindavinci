@@ -13,6 +13,15 @@
 </tr>
 </table>
 
+## Apps
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/martindavinci/GyozaRec"><img src="res/gyozarec.webp" width="100%" alt="The GyozaRec dumpling, its toolbar in English and below in six other languages, and the editor over a pizza and a menu marked with an arrow, text, a highlighter, a pen circle, a rectangle, pixelated prices and a redacted password"></a></td>
+<td width="50%" valign="top"><b><a href="https://github.com/martindavinci/GyozaRec">GyozaRec</a></b><br>Fast, cute screen capture for Windows 10 and 11: a rectangle, a window or the full screen to PNG, JPG, MP4 or animated GIF. MP4s with system audio, recordings you can pause, an editor to mark up images, global shortcuts, 9 languages, installer or portable. Entirely local: no uploads, no accounts.</td>
+</tr>
+</table>
+
 ## Tools
 
 <table>
