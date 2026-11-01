@@ -1,6 +1,9 @@
 # Martin DaVinci
 
-![](res/landscape.png)
+<p>
+<img src="res/tools-cat.webp" height="195" alt="An orange cat in round glasses with a quill behind its ear and a leather vest, fixing a brass gear at a wooden workbench">
+<img src="res/landscape.png" height="195" alt="">
+</p>
 
 *Knowledge has no limits.*
 
