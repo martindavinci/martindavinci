@@ -31,6 +31,10 @@
 <td width="50%"><a href="https://github.com/martindavinci/ImoutoNotes"><img src="res/imouto-notes.webp" width="100%" alt="The imouto, a chibi neko girl with pink hair, leaning on a yellow shopping note and saying &quot;Onii-chan! The milk, it's almost six!&quot;; beside it All notes, with the pink Work note shown next to the list"></a></td>
 <td width="50%" valign="top"><b><a href="https://github.com/martindavinci/ImoutoNotes">Imouto Notes</a></b><br>Sticky notes for Windows 10 and 11 with a chibi neko imouto hanging on them, who reminds you of what is due and nags, a little more each minute, until you tick it. Notes are Markdown files edited as Obsidian's live preview shows them, with pages, pictures, dues, encrypted notes and a window with all of them. 14 languages, no network connection at all. Freeware.</td>
 </tr>
+<tr>
+<td width="50%"><a href="https://github.com/martindavinci/lunaris-essentials"><img src="res/lunaris.webp" width="100%" alt="A Leonardo-style machine of wood and brass turning a crescent moon with a blue crystal at its heart; beside it Lunaris Text Editor on a phone: a Kotlin file, a Markdown preview and a document being read aloud"></a></td>
+<td width="50%" valign="top"><b><a href="https://github.com/martindavinci/lunaris-essentials">Lunaris Essentials</a></b><br>The everyday Android utilities, without the ads: offline, no tracking, no account, only the permissions a tool truly needs. The first one is Lunaris Text Editor, a text and code editor with 54 highlighted languages, tabs, search and replace, Markdown and HTML preview and reading aloud, and no system permissions at all. Free software under the GPL.</td>
+</tr>
 </table>
 
 ## Tools
