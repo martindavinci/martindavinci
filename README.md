@@ -35,6 +35,10 @@
 <td width="50%"><a href="https://github.com/martindavinci/lunaris-essentials"><img src="res/lunaris.webp" width="100%" alt="A Leonardo-style machine of wood and brass turning a crescent moon with a blue crystal at its heart; beside it Lunaris Text Editor on a phone: a Kotlin file, a Markdown preview and a document being read aloud"></a></td>
 <td width="50%" valign="top"><b><a href="https://github.com/martindavinci/lunaris-essentials">Lunaris Essentials</a></b><br>The everyday Android utilities, without the ads: offline, no tracking, no account, only the permissions a tool truly needs. The first one is Lunaris Text Editor, a text and code editor with 54 highlighted languages, tabs, search and replace, Markdown and HTML preview and reading aloud, and no system permissions at all. Free software under the GPL.</td>
 </tr>
+<tr>
+<td width="50%"><a href="https://github.com/martindavinci/FeatherSend"><img src="res/feathersend.webp" width="100%" alt="The FeatherSend feather, a smiling feather carrying an envelope and trailing speed lines, beside the main window with its lists of devices and transfers and its buttons to send files, a folder or the clipboard"></a></td>
+<td width="50%" valign="top"><b><a href="https://github.com/martindavinci/FeatherSend">FeatherSend</a></b><br>Send files, folders and the clipboard between your devices on the local network, on Windows 7 SP1 to 11 and on PCs with little memory (under 15 MB when idle). It talks to the official LocalSend apps on phones and other PCs; between FeatherSend PCs it adds pairing with a code, resumable transfers and clipboard sync. 9 languages, installer or portable, no account and no cloud. Free software under the MIT license.</td>
+</tr>
 </table>
 
 ## Tools
