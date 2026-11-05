@@ -39,6 +39,10 @@
 <td width="50%"><a href="https://github.com/martindavinci/FeatherSend"><img src="res/feathersend.webp" width="100%" alt="The FeatherSend feather, a smiling feather carrying an envelope and trailing speed lines, beside the main window with its lists of devices and transfers and its buttons to send files, a folder or the clipboard"></a></td>
 <td width="50%" valign="top"><b><a href="https://github.com/martindavinci/FeatherSend">FeatherSend</a></b><br>Send files, folders and the clipboard between your devices on the local network, on Windows 7 SP1 to 11 and on PCs with little memory (under 15 MB when idle). It talks to the official LocalSend apps on phones and other PCs; between FeatherSend PCs it adds pairing with a code, resumable transfers and clipboard sync. 9 languages, installer or portable, no account and no cloud. Free software under the MIT license.</td>
 </tr>
+<tr>
+<td width="50%"><a href="https://github.com/martindavinci/MochiReader"><img src="res/mochireader.webp" width="100%" alt="The MochiReader mochi, a smiling round mochi with a bite out of it reading a red book, beside the window with a Markdown note open, its tab and the buttons for contents, bookmark and read aloud"></a></td>
+<td width="50%" valign="top"><b><a href="https://github.com/martindavinci/MochiReader">MochiReader</a></b><br>A calm reader for Markdown and EPUB on Windows 10 and 11, which can also read them aloud with the voices already in Windows, sentence by sentence, highlighting each one. Tabs, contents, bookmarks, and every file and book reopened where you stopped. Light and dark themes, English and Italian, installer or portable. Entirely offline, no account. Free software under the GPL.</td>
+</tr>
 </table>
 
 ## Tools
