@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/martindavinci/MochiReader"><img src="res/mochireader.webp" width="100%" alt="The MochiReader mochi, a smiling round mochi with a bite out of it reading a red book, beside the window with a Markdown note open, its tab and the buttons for contents, bookmark and read aloud"></a></td>
-<td width="50%" valign="top"><b><a href="https://github.com/martindavinci/MochiReader">MochiReader</a></b><br>A calm reader for Markdown and EPUB on Windows 10 and 11, which can also read them aloud with the voices already in Windows, sentence by sentence, highlighting each one. Tabs, contents, bookmarks, and every file and book reopened where you stopped. Light and dark themes, English and Italian, installer or portable. Entirely offline, no account. Free software under the GPL.</td>
+<td width="50%" valign="top"><b><a href="https://github.com/martindavinci/MochiReader">MochiReader</a></b><br>A calm reader for Markdown, EPUB and PDF on Windows 10 and 11, which also reads Word, OpenDocument, RTF and text files aloud. The voices of Windows or natural voices downloaded once, sentence by sentence, highlighting each word. Books translate offline with the models of Firefox Translations, shown side by side or in one language, and read aloud in it. Tabs, contents, bookmarks, and every file and book reopened where you stopped. Light and dark themes, nine languages, installer or portable. Offline, no account. Free software under the GPL.</td>
 </tr>
 </table>
 
